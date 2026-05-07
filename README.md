@@ -84,16 +84,16 @@ The dashboard transforms raw CSV sales data into meaningful business insights th
 # 📸 Dashboard Preview
 
 ## 🔹 Overview Dashboard
-(Add Screenshot Here)
+![Overview Dashboard](overview.png) 
 
 ## 🔹 Customers Dashboard
-(Add Screenshot Here)
+![Customers Dashboard](customers.png) 
 
 ## 🔹 Products Dashboard
-(Add Screenshot Here)
+![Products Dashboard](products.png) 
 
 ## 🔹 Regional Dashboard
-(Add Screenshot Here)
+![Regional Dashboard](regional.png) 
 
 ---
 
